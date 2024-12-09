@@ -33,11 +33,11 @@
 
 - summary: |
     Выбор "Типа звука" в настройках своего профиля
-  status: pass
+  status: fail
 
 - summary: |
     Выбор уровня громкости в настройках профиля
-  status: pass
+  status: fail
 
 - summary: |
     Просмотр рейтинга всех пользователей
@@ -45,7 +45,7 @@
 
 - summary: |
     Редактирование фото профиля
-  status: pass
+  status: fail
 
 - summary: |
     Создание игры
@@ -93,4 +93,4 @@
 
 - summary: |
     Перевод страницы входа на русский язык
-  status: pass
+  status: fail
