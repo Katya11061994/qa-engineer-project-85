@@ -1,0 +1,96 @@
+---
+- summary: |
+    Возможность зарегистироваться на сайте
+  status: pass
+
+- summary: |
+    Успешный вход на сайт при помощи ввода данных зарегестированного пользователя
+  status: pass
+
+- summary: |
+    Ошибка входа с несуществующими логином и паролем
+  status: pass
+
+- summary: |
+    Просмотр своего профиля
+  status: pass
+
+- summary: |
+    Просмотр своей статистики в профиле
+  status: pass
+
+- summary: |
+    Просмотр завершенных игр в профиле
+  status: pass
+
+- summary: |
+    Переход в "настройки" своего профиля
+  status: pass
+
+- summary: |
+    Выбор языка програмирования в настройках профиля
+  status: pass
+
+- summary: |
+    Выбор "Типа звука" в настройках своего профиля
+  status: pass
+
+- summary: |
+    Выбор уровня громкости в настройках профиля
+  status: pass
+
+- summary: |
+    Просмотр рейтинга всех пользователей
+  status: pass
+
+- summary: |
+    Редактирование фото профиля
+  status: pass
+
+- summary: |
+    Создание игры
+  status: pass
+
+- summary: |
+    Настройка уровня сложности при создании игры
+  status: pass
+
+- summary: |
+    Выбор фона в текущей игре
+  status: pass
+
+- summary: |
+    Ведение диалога с соперником в текущей игре
+  status: pass
+
+- summary: |
+    Отзыв в текущей игры
+  status: pass
+
+- summary: |
+    Протокол HTTPS
+  status: pass
+
+- summary: |
+    Мобильная версия
+  status: pass
+
+- summary: |
+    Кроссбраузерность
+  status: pass
+
+- summary: |
+    Возможность сдаться в игре
+  status: pass
+
+- summary: |
+    Отмена созданной игры
+  status: pass
+
+- summary: |
+    Игра не должна прерваться при обновлении страницы
+  status: pass
+
+- summary: |
+    Перевод страницы входа на русский язык
+  status: pass
