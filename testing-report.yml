@@ -4,11 +4,19 @@
   status: pass
 
 - summary: |
+    Возможность авторизоваться на сайте
+  status: pass
+
+- summary: |
     Успешный вход на сайт при помощи ввода данных зарегестированного пользователя
   status: pass
 
 - summary: |
-    Ошибка входа с несуществующими логином и паролем
+    Невалидный логин
+  status: pass
+
+- summary: |
+    Неверный пароль
   status: pass
 
 - summary: |
@@ -65,6 +73,22 @@
 
 - summary: |
     Отзыв в текущей игры
+  status: pass
+
+- summary: |
+    Ожидание второго игрока
+  status: pass
+
+- summary: |
+    Игра созданная одним игроком доступна другим игрокам
+  status: pass
+
+- summary: |
+    Подключенее к игре, созданной другим игроком
+  status: pass
+
+- summary: |
+    Два редактора в игре
   status: pass
 
 - summary: |
