@@ -96,6 +96,10 @@
   status: pass
 
 - summary: |
+    Создание игры с другом
+  status: pass
+
+- summary: |
     Протокол HTTPS
   status: pass
 
