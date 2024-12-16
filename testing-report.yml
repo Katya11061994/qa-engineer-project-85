@@ -102,6 +102,10 @@
 - summary: |
     Получение приглашения от друга
   status: pass
+
+- summary: |
+    Принятие приглашения от друга
+  status: fail
   
 - summary: |
     Протокол HTTPS
